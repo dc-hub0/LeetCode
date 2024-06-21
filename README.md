@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/dc-hub0/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dc-hub0/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dc-hub0/LeetCode/tree/master/0016-3sum-closest) |
+| [1138-grumpy-bookstore-owner](https://github.com/dc-hub0/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dc-hub0/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
 |  |
@@ -39,3 +40,7 @@
 | [0015-3sum](https://github.com/dc-hub0/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dc-hub0/LeetCode/tree/master/0016-3sum-closest) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dc-hub0/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/dc-hub0/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
