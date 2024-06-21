@@ -44,3 +44,15 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/dc-hub0/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
+# String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/dc-hub0/LeetCode/tree/master/0010-regular-expression-matching) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/dc-hub0/LeetCode/tree/master/0010-regular-expression-matching) |
+# Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/dc-hub0/LeetCode/tree/master/0010-regular-expression-matching) |
