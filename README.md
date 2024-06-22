@@ -62,6 +62,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dc-hub0/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/dc-hub0/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0629-k-inverse-pairs-array](https://github.com/dc-hub0/LeetCode/tree/master/0629-k-inverse-pairs-array) |
 # Recursion
 |  |
 | ------- |
