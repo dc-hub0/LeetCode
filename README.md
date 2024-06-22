@@ -10,12 +10,14 @@
 | [0015-3sum](https://github.com/dc-hub0/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dc-hub0/LeetCode/tree/master/0016-3sum-closest) |
 | [1138-grumpy-bookstore-owner](https://github.com/dc-hub0/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/dc-hub0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dc-hub0/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dc-hub0/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dc-hub0/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/dc-hub0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Binary Search
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dc-hub0/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1138-grumpy-bookstore-owner](https://github.com/dc-hub0/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/dc-hub0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # String
 |  |
 | ------- |
@@ -71,3 +74,4 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dc-hub0/LeetCode/tree/master/0002-add-two-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/dc-hub0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
