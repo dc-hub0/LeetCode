@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/dc-hub0/LeetCode/tree/master/0016-3sum-closest) |
 | [1138-grumpy-bookstore-owner](https://github.com/dc-hub0/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dc-hub0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dc-hub0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dc-hub0/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
 |  |
@@ -50,6 +51,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/dc-hub0/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1138-grumpy-bookstore-owner](https://github.com/dc-hub0/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dc-hub0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dc-hub0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # String
 |  |
 | ------- |
@@ -77,3 +79,19 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/dc-hub0/LeetCode/tree/master/0002-add-two-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dc-hub0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+# Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dc-hub0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dc-hub0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dc-hub0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dc-hub0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
