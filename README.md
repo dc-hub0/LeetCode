@@ -66,6 +66,7 @@
 | [0010-regular-expression-matching](https://github.com/dc-hub0/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/dc-hub0/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dc-hub0/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/dc-hub0/LeetCode/tree/master/0014-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/dc-hub0/LeetCode/tree/master/3379-score-of-a-string) |
 # Dynamic Programming
 |  |
@@ -132,3 +133,7 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dc-hub0/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dc-hub0/LeetCode/tree/master/0014-longest-common-prefix) |
