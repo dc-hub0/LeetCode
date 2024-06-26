@@ -76,12 +76,14 @@
 | [0014-longest-common-prefix](https://github.com/dc-hub0/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dc-hub0/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/0022-generate-parentheses) |
 | [3379-score-of-a-string](https://github.com/dc-hub0/LeetCode/tree/master/3379-score-of-a-string) |
 # Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dc-hub0/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/dc-hub0/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/0022-generate-parentheses) |
 | [0629-k-inverse-pairs-array](https://github.com/dc-hub0/LeetCode/tree/master/0629-k-inverse-pairs-array) |
 # Recursion
 |  |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dc-hub0/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/0022-generate-parentheses) |
 # Stack
 |  |
 | ------- |
