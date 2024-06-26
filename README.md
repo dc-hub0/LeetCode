@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dc-hub0/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/dc-hub0/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [1285-balance-a-binary-search-tree](https://github.com/dc-hub0/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Two Pointers
 |  |
@@ -97,6 +98,7 @@
 | [0002-add-two-numbers](https://github.com/dc-hub0/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dc-hub0/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/dc-hub0/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/dc-hub0/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 # Math
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dc-hub0/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dc-hub0/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Ordered Set
 |  |
@@ -164,3 +167,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/0020-valid-parentheses) |
+# Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dc-hub0/LeetCode/tree/master/0023-merge-k-sorted-lists) |
