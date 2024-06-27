@@ -95,6 +95,7 @@
 | [0005-longest-palindromic-substring](https://github.com/dc-hub0/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/dc-hub0/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0629-k-inverse-pairs-array](https://github.com/dc-hub0/LeetCode/tree/master/0629-k-inverse-pairs-array) |
 # Recursion
 |  |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/0032-longest-valid-parentheses) |
 # Merge Sort
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dc-hub0/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dc-hub0/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/0032-longest-valid-parentheses) |
 # Graph
 |  |
 | ------- |
