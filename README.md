@@ -190,3 +190,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dc-hub0/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dc-hub0/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/dc-hub0/LeetCode/tree/master/1916-find-center-of-star-graph) |
