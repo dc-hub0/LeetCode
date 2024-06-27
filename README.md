@@ -16,6 +16,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/dc-hub0/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dc-hub0/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dc-hub0/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/dc-hub0/LeetCode/tree/master/0036-valid-sudoku) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/dc-hub0/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/dc-hub0/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dc-hub0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -30,6 +31,7 @@
 | [0013-roman-to-integer](https://github.com/dc-hub0/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dc-hub0/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dc-hub0/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/dc-hub0/LeetCode/tree/master/0036-valid-sudoku) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dc-hub0/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Binary Search
 |  |
@@ -205,3 +207,7 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/dc-hub0/LeetCode/tree/master/1916-find-center-of-star-graph) |
+# Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/dc-hub0/LeetCode/tree/master/0036-valid-sudoku) |
