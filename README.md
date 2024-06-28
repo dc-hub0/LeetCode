@@ -235,6 +235,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/dc-hub0/LeetCode/tree/master/0049-group-anagrams) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dc-hub0/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -249,10 +250,12 @@
 | [0046-permutations](https://github.com/dc-hub0/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dc-hub0/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/dc-hub0/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/dc-hub0/LeetCode/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/dc-hub0/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/dc-hub0/LeetCode/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -281,6 +284,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/dc-hub0/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/dc-hub0/LeetCode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/dc-hub0/LeetCode/tree/master/0049-group-anagrams) |
 ## Simulation
 |  |
 | ------- |
