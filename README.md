@@ -225,6 +225,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/dc-hub0/LeetCode/tree/master/0044-wildcard-matching) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dc-hub0/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -255,6 +256,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dc-hub0/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/dc-hub0/LeetCode/tree/master/0044-wildcard-matching) |
 ## Stack
 |  |
 | ------- |
@@ -271,8 +273,13 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/dc-hub0/LeetCode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/dc-hub0/LeetCode/tree/master/0044-wildcard-matching) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/dc-hub0/LeetCode/tree/master/0043-multiply-strings) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/dc-hub0/LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
