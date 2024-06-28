@@ -246,6 +246,7 @@
 | [0041-first-missing-positive](https://github.com/dc-hub0/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dc-hub0/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dc-hub0/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/dc-hub0/LeetCode/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -285,4 +286,8 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/dc-hub0/LeetCode/tree/master/0044-wildcard-matching) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/dc-hub0/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
