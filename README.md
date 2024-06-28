@@ -220,3 +220,22 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/dc-hub0/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/dc-hub0/LeetCode/tree/master/0037-sudoku-solver) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Greedy
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/dc-hub0/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+## Graph
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/dc-hub0/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+## Sorting
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/dc-hub0/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/dc-hub0/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics End-->
