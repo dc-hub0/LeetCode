@@ -247,6 +247,7 @@
 | [0042-trapping-rain-water](https://github.com/dc-hub0/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dc-hub0/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/dc-hub0/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/dc-hub0/LeetCode/tree/master/0047-permutations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -290,4 +291,5 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/dc-hub0/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/dc-hub0/LeetCode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
