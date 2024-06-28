@@ -279,6 +279,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/dc-hub0/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/dc-hub0/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/dc-hub0/LeetCode/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -293,6 +294,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/dc-hub0/LeetCode/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/dc-hub0/LeetCode/tree/master/0050-powx-n) |
 ## Backtracking
 |  |
 | ------- |
