@@ -253,6 +253,7 @@
 | [0048-rotate-image](https://github.com/dc-hub0/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dc-hub0/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/dc-hub0/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/dc-hub0/LeetCode/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -268,6 +269,7 @@
 | [0042-trapping-rain-water](https://github.com/dc-hub0/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/dc-hub0/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/dc-hub0/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/dc-hub0/LeetCode/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -320,4 +322,8 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dc-hub0/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dc-hub0/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
