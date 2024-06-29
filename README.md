@@ -252,6 +252,7 @@
 | [0047-permutations-ii](https://github.com/dc-hub0/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/dc-hub0/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dc-hub0/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/dc-hub0/LeetCode/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -301,6 +302,7 @@
 | ------- |
 | [0046-permutations](https://github.com/dc-hub0/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dc-hub0/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/dc-hub0/LeetCode/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
