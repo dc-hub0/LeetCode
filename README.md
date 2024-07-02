@@ -258,6 +258,7 @@
 | [0053-maximum-subarray](https://github.com/dc-hub0/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dc-hub0/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dc-hub0/LeetCode/tree/master/0055-jump-game) |
+| [1293-three-consecutive-odds](https://github.com/dc-hub0/LeetCode/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
