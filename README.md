@@ -240,6 +240,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/dc-hub0/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/dc-hub0/LeetCode/tree/master/0056-merge-intervals) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dc-hub0/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dc-hub0/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -261,6 +262,7 @@
 | [0053-maximum-subarray](https://github.com/dc-hub0/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dc-hub0/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dc-hub0/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/dc-hub0/LeetCode/tree/master/0056-merge-intervals) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/dc-hub0/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dc-hub0/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
