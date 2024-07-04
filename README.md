@@ -315,6 +315,7 @@
 | [0043-multiply-strings](https://github.com/dc-hub0/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/dc-hub0/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dc-hub0/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/dc-hub0/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -358,4 +359,8 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/dc-hub0/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
