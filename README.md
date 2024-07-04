@@ -278,6 +278,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dc-hub0/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/dc-hub0/LeetCode/tree/master/0061-rotate-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -362,5 +363,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/dc-hub0/LeetCode/tree/master/0061-rotate-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dc-hub0/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
