@@ -313,6 +313,7 @@
 | [0062-unique-paths](https://github.com/dc-hub0/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/dc-hub0/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dc-hub0/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/dc-hub0/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -376,6 +377,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/dc-hub0/LeetCode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
