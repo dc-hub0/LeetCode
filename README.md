@@ -296,6 +296,7 @@
 | [0063-unique-paths-ii](https://github.com/dc-hub0/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dc-hub0/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dc-hub0/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/dc-hub0/LeetCode/tree/master/0072-edit-distance) |
 ## Stack
 |  |
 | ------- |
@@ -328,6 +329,7 @@
 | [0067-add-binary](https://github.com/dc-hub0/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/dc-hub0/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/dc-hub0/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/dc-hub0/LeetCode/tree/master/0072-edit-distance) |
 ## Simulation
 |  |
 | ------- |
