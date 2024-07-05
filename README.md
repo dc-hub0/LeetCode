@@ -241,6 +241,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/dc-hub0/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dc-hub0/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/dc-hub0/LeetCode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dc-hub0/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dc-hub0/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -271,6 +272,7 @@
 | [0068-text-justification](https://github.com/dc-hub0/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/dc-hub0/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dc-hub0/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/dc-hub0/LeetCode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/dc-hub0/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dc-hub0/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -286,6 +288,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dc-hub0/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/dc-hub0/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/dc-hub0/LeetCode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
