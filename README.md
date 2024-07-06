@@ -324,6 +324,7 @@
 | [0067-add-binary](https://github.com/dc-hub0/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dc-hub0/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dc-hub0/LeetCode/tree/master/0070-climbing-stairs) |
+| [2645-pass-the-pillow](https://github.com/dc-hub0/LeetCode/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
 | ------- |
@@ -345,6 +346,7 @@
 | [0067-add-binary](https://github.com/dc-hub0/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/dc-hub0/LeetCode/tree/master/0068-text-justification) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dc-hub0/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/dc-hub0/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
