@@ -274,6 +274,7 @@
 | [0074-search-a-2d-matrix](https://github.com/dc-hub0/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dc-hub0/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/dc-hub0/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/dc-hub0/LeetCode/tree/master/0079-word-search) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/dc-hub0/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dc-hub0/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -341,6 +342,7 @@
 | [0071-simplify-path](https://github.com/dc-hub0/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/dc-hub0/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/dc-hub0/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/dc-hub0/LeetCode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -367,6 +369,7 @@
 | [0052-n-queens-ii](https://github.com/dc-hub0/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/dc-hub0/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/dc-hub0/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/dc-hub0/LeetCode/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
@@ -377,6 +380,7 @@
 | [0064-minimum-path-sum](https://github.com/dc-hub0/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dc-hub0/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dc-hub0/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/dc-hub0/LeetCode/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
 | ------- |
