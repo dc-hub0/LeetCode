@@ -296,6 +296,7 @@
 | [0061-rotate-list](https://github.com/dc-hub0/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/dc-hub0/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dc-hub0/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dc-hub0/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -419,6 +420,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/dc-hub0/LeetCode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dc-hub0/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dc-hub0/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dc-hub0/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Combinatorics
