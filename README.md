@@ -344,6 +344,7 @@
 | [0067-add-binary](https://github.com/dc-hub0/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dc-hub0/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dc-hub0/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/dc-hub0/LeetCode/tree/master/0089-gray-code) |
 | [1642-water-bottles](https://github.com/dc-hub0/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dc-hub0/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/dc-hub0/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -391,6 +392,7 @@
 | [0077-combinations](https://github.com/dc-hub0/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/dc-hub0/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dc-hub0/LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/dc-hub0/LeetCode/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
@@ -448,6 +450,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/dc-hub0/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/dc-hub0/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/dc-hub0/LeetCode/tree/master/0089-gray-code) |
 ## Memoization
 |  |
 | ------- |
