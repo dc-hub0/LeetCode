@@ -323,6 +323,7 @@
 | [0087-scramble-string](https://github.com/dc-hub0/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/dc-hub0/LeetCode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/dc-hub0/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/dc-hub0/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Stack
 |  |
 | ------- |
@@ -350,6 +351,7 @@
 | [0069-sqrtx](https://github.com/dc-hub0/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dc-hub0/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/dc-hub0/LeetCode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/dc-hub0/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [1642-water-bottles](https://github.com/dc-hub0/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dc-hub0/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/dc-hub0/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -482,13 +484,16 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dc-hub0/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/dc-hub0/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/dc-hub0/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dc-hub0/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/dc-hub0/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/dc-hub0/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/dc-hub0/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/dc-hub0/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
