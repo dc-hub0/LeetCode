@@ -426,10 +426,12 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/dc-hub0/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/dc-hub0/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/dc-hub0/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/dc-hub0/LeetCode/tree/master/0100-same-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dc-hub0/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dc-hub0/LeetCode/tree/master/0100-same-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dc-hub0/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -491,6 +493,7 @@
 | [0096-unique-binary-search-trees](https://github.com/dc-hub0/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dc-hub0/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/dc-hub0/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/dc-hub0/LeetCode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -499,6 +502,7 @@
 | [0096-unique-binary-search-trees](https://github.com/dc-hub0/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dc-hub0/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/dc-hub0/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/dc-hub0/LeetCode/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
