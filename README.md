@@ -329,6 +329,7 @@
 | [0071-simplify-path](https://github.com/dc-hub0/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dc-hub0/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/dc-hub0/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/dc-hub0/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -416,6 +417,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dc-hub0/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dc-hub0/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -473,4 +475,12 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dc-hub0/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dc-hub0/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dc-hub0/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
