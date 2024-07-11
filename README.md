@@ -336,6 +336,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/dc-hub0/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/dc-hub0/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dc-hub0/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dc-hub0/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
 |  |
@@ -378,6 +379,7 @@
 | [0091-decode-ways](https://github.com/dc-hub0/LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/dc-hub0/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/dc-hub0/LeetCode/tree/master/0097-interleaving-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dc-hub0/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Simulation
 |  |
