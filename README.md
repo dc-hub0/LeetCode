@@ -444,6 +444,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/dc-hub0/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/dc-hub0/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dc-hub0/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/dc-hub0/LeetCode/tree/master/0112-path-sum) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dc-hub0/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -455,6 +456,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/dc-hub0/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/dc-hub0/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dc-hub0/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/dc-hub0/LeetCode/tree/master/0112-path-sum) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dc-hub0/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -533,6 +535,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dc-hub0/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/dc-hub0/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dc-hub0/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/dc-hub0/LeetCode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -553,6 +556,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dc-hub0/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/dc-hub0/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dc-hub0/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/dc-hub0/LeetCode/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
