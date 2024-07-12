@@ -451,6 +451,7 @@
 | [0112-path-sum](https://github.com/dc-hub0/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dc-hub0/LeetCode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dc-hub0/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dc-hub0/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dc-hub0/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -463,6 +464,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/dc-hub0/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dc-hub0/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/dc-hub0/LeetCode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dc-hub0/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dc-hub0/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -497,6 +499,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/dc-hub0/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dc-hub0/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dc-hub0/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dc-hub0/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dc-hub0/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dc-hub0/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Combinatorics
@@ -545,6 +548,7 @@
 | [0112-path-sum](https://github.com/dc-hub0/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dc-hub0/LeetCode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dc-hub0/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dc-hub0/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -568,6 +572,7 @@
 | [0112-path-sum](https://github.com/dc-hub0/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dc-hub0/LeetCode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dc-hub0/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dc-hub0/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
