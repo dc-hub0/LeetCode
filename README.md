@@ -229,6 +229,7 @@
 | [0045-jump-game-ii](https://github.com/dc-hub0/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dc-hub0/LeetCode/tree/master/0055-jump-game) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dc-hub0/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/dc-hub0/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dc-hub0/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -338,6 +339,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/dc-hub0/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dc-hub0/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/dc-hub0/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -381,6 +383,7 @@
 | [0097-interleaving-string](https://github.com/dc-hub0/LeetCode/tree/master/0097-interleaving-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dc-hub0/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/dc-hub0/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
