@@ -288,6 +288,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dc-hub0/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/dc-hub0/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dc-hub0/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/dc-hub0/LeetCode/tree/master/0120-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/dc-hub0/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dc-hub0/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -337,6 +338,7 @@
 | [0115-distinct-subsequences](https://github.com/dc-hub0/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/dc-hub0/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dc-hub0/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/dc-hub0/LeetCode/tree/master/0120-triangle) |
 ## Stack
 |  |
 | ------- |
