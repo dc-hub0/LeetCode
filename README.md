@@ -304,6 +304,7 @@
 | [0135-candy](https://github.com/dc-hub0/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/dc-hub0/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dc-hub0/LeetCode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/dc-hub0/LeetCode/tree/master/0139-word-break) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/dc-hub0/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dc-hub0/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -325,6 +326,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/dc-hub0/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/dc-hub0/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/dc-hub0/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/dc-hub0/LeetCode/tree/master/0139-word-break) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/dc-hub0/LeetCode/tree/master/0726-number-of-atoms) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dc-hub0/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -369,6 +371,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/dc-hub0/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/dc-hub0/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/dc-hub0/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/dc-hub0/LeetCode/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -429,6 +432,7 @@
 | [0127-word-ladder](https://github.com/dc-hub0/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/dc-hub0/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/dc-hub0/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/dc-hub0/LeetCode/tree/master/0139-word-break) |
 | [0726-number-of-atoms](https://github.com/dc-hub0/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dc-hub0/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -580,6 +584,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dc-hub0/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/dc-hub0/LeetCode/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -655,4 +660,8 @@
 | [0099-recover-binary-search-tree](https://github.com/dc-hub0/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dc-hub0/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dc-hub0/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/dc-hub0/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
