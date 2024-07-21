@@ -251,6 +251,7 @@
 | [0075-sort-colors](https://github.com/dc-hub0/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dc-hub0/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/dc-hub0/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/dc-hub0/LeetCode/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/dc-hub0/LeetCode/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dc-hub0/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -357,6 +358,7 @@
 | [0141-linked-list-cycle](https://github.com/dc-hub0/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dc-hub0/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/dc-hub0/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/dc-hub0/LeetCode/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -570,6 +572,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dc-hub0/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dc-hub0/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dc-hub0/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/dc-hub0/LeetCode/tree/master/0148-sort-list) |
 ## Union Find
 |  |
 | ------- |
@@ -601,6 +604,7 @@
 | [0143-reorder-list](https://github.com/dc-hub0/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/dc-hub0/LeetCode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/dc-hub0/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/dc-hub0/LeetCode/tree/master/0148-sort-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dc-hub0/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dc-hub0/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Combinatorics
@@ -718,4 +722,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/dc-hub0/LeetCode/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/dc-hub0/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
