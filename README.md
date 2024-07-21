@@ -337,6 +337,7 @@
 | [0140-word-break-ii](https://github.com/dc-hub0/LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/dc-hub0/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dc-hub0/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/dc-hub0/LeetCode/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/dc-hub0/LeetCode/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dc-hub0/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -597,6 +598,7 @@
 | [0141-linked-list-cycle](https://github.com/dc-hub0/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dc-hub0/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/dc-hub0/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/dc-hub0/LeetCode/tree/master/0146-lru-cache) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dc-hub0/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dc-hub0/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Combinatorics
@@ -706,4 +708,12 @@
 | ------- |
 | [0139-word-break](https://github.com/dc-hub0/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dc-hub0/LeetCode/tree/master/0140-word-break-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/dc-hub0/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/dc-hub0/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
