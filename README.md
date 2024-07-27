@@ -240,6 +240,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/dc-hub0/LeetCode/tree/master/0133-clone-graph) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dc-hub0/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dc-hub0/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/dc-hub0/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dc-hub0/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/dc-hub0/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -397,6 +398,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/dc-hub0/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/dc-hub0/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dc-hub0/LeetCode/tree/master/0140-word-break-ii) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dc-hub0/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Stack
 |  |
 | ------- |
@@ -753,4 +755,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dc-hub0/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
