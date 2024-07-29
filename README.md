@@ -316,6 +316,7 @@
 | [0140-word-break-ii](https://github.com/dc-hub0/LeetCode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/dc-hub0/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dc-hub0/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/dc-hub0/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dc-hub0/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -402,6 +403,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/dc-hub0/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/dc-hub0/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dc-hub0/LeetCode/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/dc-hub0/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dc-hub0/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/dc-hub0/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Stack
