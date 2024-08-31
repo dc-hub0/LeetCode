@@ -241,6 +241,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/dc-hub0/LeetCode/tree/master/0133-clone-graph) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dc-hub0/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1325-path-with-maximum-probability](https://github.com/dc-hub0/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dc-hub0/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dc-hub0/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/dc-hub0/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -270,6 +271,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/dc-hub0/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dc-hub0/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2803-modify-graph-edge-weights](https://github.com/dc-hub0/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Array
@@ -338,6 +340,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/dc-hub0/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dc-hub0/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/dc-hub0/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1325-path-with-maximum-probability](https://github.com/dc-hub0/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dc-hub0/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/dc-hub0/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dc-hub0/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -835,6 +838,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/dc-hub0/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dc-hub0/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2803-modify-graph-edge-weights](https://github.com/dc-hub0/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/dc-hub0/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
