@@ -337,6 +337,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/dc-hub0/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/dc-hub0/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dc-hub0/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/dc-hub0/LeetCode/tree/master/0200-number-of-islands) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/dc-hub0/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -596,6 +597,7 @@
 | [0085-maximal-rectangle](https://github.com/dc-hub0/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/dc-hub0/LeetCode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/dc-hub0/LeetCode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/dc-hub0/LeetCode/tree/master/0200-number-of-islands) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dc-hub0/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/dc-hub0/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/dc-hub0/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -623,6 +625,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/dc-hub0/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dc-hub0/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dc-hub0/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/dc-hub0/LeetCode/tree/master/0200-number-of-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dc-hub0/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dc-hub0/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dc-hub0/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -645,6 +648,7 @@
 | [0130-surrounded-regions](https://github.com/dc-hub0/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/dc-hub0/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/dc-hub0/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/dc-hub0/LeetCode/tree/master/0200-number-of-islands) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dc-hub0/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -669,6 +673,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dc-hub0/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/dc-hub0/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/dc-hub0/LeetCode/tree/master/0200-number-of-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dc-hub0/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/dc-hub0/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Binary Search
