@@ -382,6 +382,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/dc-hub0/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/dc-hub0/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/dc-hub0/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/dc-hub0/LeetCode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/dc-hub0/LeetCode/tree/master/0726-number-of-atoms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dc-hub0/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -408,6 +409,7 @@
 | [0165-compare-version-numbers](https://github.com/dc-hub0/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dc-hub0/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dc-hub0/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dc-hub0/LeetCode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -496,6 +498,7 @@
 | [0171-excel-sheet-column-number](https://github.com/dc-hub0/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/dc-hub0/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/dc-hub0/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dc-hub0/LeetCode/tree/master/0202-happy-number) |
 | [1642-water-bottles](https://github.com/dc-hub0/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dc-hub0/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/dc-hub0/LeetCode/tree/master/2645-pass-the-pillow) |
