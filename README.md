@@ -384,6 +384,7 @@
 | [0169-majority-element](https://github.com/dc-hub0/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/dc-hub0/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/dc-hub0/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/dc-hub0/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/dc-hub0/LeetCode/tree/master/0726-number-of-atoms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dc-hub0/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -536,6 +537,7 @@
 | [0171-excel-sheet-column-number](https://github.com/dc-hub0/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/dc-hub0/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/dc-hub0/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/dc-hub0/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0726-number-of-atoms](https://github.com/dc-hub0/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dc-hub0/LeetCode/tree/master/1720-crawler-log-folder) |
