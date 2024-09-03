@@ -338,6 +338,7 @@
 | [0189-rotate-array](https://github.com/dc-hub0/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dc-hub0/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/dc-hub0/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/dc-hub0/LeetCode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/dc-hub0/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -499,6 +500,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/dc-hub0/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/dc-hub0/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dc-hub0/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/dc-hub0/LeetCode/tree/master/0204-count-primes) |
 | [1642-water-bottles](https://github.com/dc-hub0/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dc-hub0/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/dc-hub0/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -907,4 +909,12 @@
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dc-hub0/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dc-hub0/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dc-hub0/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
