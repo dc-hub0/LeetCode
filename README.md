@@ -572,6 +572,7 @@
 | [0050-powx-n](https://github.com/dc-hub0/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/dc-hub0/LeetCode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/dc-hub0/LeetCode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/dc-hub0/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dc-hub0/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
@@ -715,6 +716,7 @@
 | [0147-insertion-sort-list](https://github.com/dc-hub0/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/dc-hub0/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dc-hub0/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/dc-hub0/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dc-hub0/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dc-hub0/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Combinatorics
