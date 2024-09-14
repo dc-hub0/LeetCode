@@ -363,6 +363,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/dc-hub0/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/dc-hub0/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/dc-hub0/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/dc-hub0/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/dc-hub0/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/dc-hub0/LeetCode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/dc-hub0/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -765,6 +766,7 @@
 | [0190-reverse-bits](https://github.com/dc-hub0/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dc-hub0/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/dc-hub0/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/dc-hub0/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Memoization
 |  |
 | ------- |
@@ -956,4 +958,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dc-hub0/LeetCode/tree/master/0204-count-primes) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/dc-hub0/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
