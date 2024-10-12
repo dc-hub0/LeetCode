@@ -236,6 +236,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/dc-hub0/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/dc-hub0/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dc-hub0/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dc-hub0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Graph
 |  |
 | ------- |
@@ -269,6 +270,7 @@
 | [0948-sort-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0948-sort-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dc-hub0/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dc-hub0/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dc-hub0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2846-robot-collisions](https://github.com/dc-hub0/LeetCode/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
@@ -276,6 +278,7 @@
 | [0948-sort-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/dc-hub0/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dc-hub0/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dc-hub0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/dc-hub0/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Array
 |  |
@@ -365,6 +368,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/dc-hub0/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/dc-hub0/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/dc-hub0/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dc-hub0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dc-hub0/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/dc-hub0/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/dc-hub0/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -427,6 +431,7 @@
 | [0189-rotate-array](https://github.com/dc-hub0/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dc-hub0/LeetCode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dc-hub0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -963,6 +968,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dc-hub0/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dc-hub0/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dc-hub0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Enumeration
 |  |
 | ------- |
