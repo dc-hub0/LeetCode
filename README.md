@@ -264,6 +264,7 @@
 | [0164-maximum-gap](https://github.com/dc-hub0/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/dc-hub0/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/dc-hub0/LeetCode/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/dc-hub0/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/dc-hub0/LeetCode/tree/master/0726-number-of-atoms) |
@@ -275,6 +276,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/dc-hub0/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dc-hub0/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -349,6 +351,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/dc-hub0/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/dc-hub0/LeetCode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/dc-hub0/LeetCode/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/dc-hub0/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/dc-hub0/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -729,6 +732,7 @@
 | [0169-majority-element](https://github.com/dc-hub0/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/dc-hub0/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dc-hub0/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0948-sort-an-array) |
 ## Union Find
 |  |
@@ -1004,4 +1008,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/dc-hub0/LeetCode/tree/master/0214-shortest-palindrome) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
