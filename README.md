@@ -566,6 +566,7 @@
 | [0187-repeated-dna-sequences](https://github.com/dc-hub0/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/dc-hub0/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/dc-hub0/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/dc-hub0/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/dc-hub0/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/dc-hub0/LeetCode/tree/master/0726-number-of-atoms) |
@@ -673,6 +674,7 @@
 | [0200-number-of-islands](https://github.com/dc-hub0/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/dc-hub0/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dc-hub0/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/dc-hub0/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dc-hub0/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dc-hub0/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dc-hub0/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -892,6 +894,7 @@
 | [0139-word-break](https://github.com/dc-hub0/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dc-hub0/LeetCode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/dc-hub0/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/dc-hub0/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dc-hub0/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Design
 |  |
@@ -900,6 +903,7 @@
 | [0155-min-stack](https://github.com/dc-hub0/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/dc-hub0/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/dc-hub0/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/dc-hub0/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
