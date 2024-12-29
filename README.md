@@ -571,6 +571,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/dc-hub0/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/dc-hub0/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/dc-hub0/LeetCode/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/dc-hub0/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/dc-hub0/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/dc-hub0/LeetCode/tree/master/0726-number-of-atoms) |
@@ -975,10 +976,12 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/dc-hub0/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/dc-hub0/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/dc-hub0/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/dc-hub0/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -997,4 +1000,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/dc-hub0/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dc-hub0/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
