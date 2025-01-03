@@ -373,6 +373,7 @@
 | [2155-find-missing-observations](https://github.com/dc-hub0/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dc-hub0/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dc-hub0/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2358-number-of-ways-to-split-array](https://github.com/dc-hub0/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/dc-hub0/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/dc-hub0/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dc-hub0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -993,6 +994,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dc-hub0/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dc-hub0/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/dc-hub0/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dc-hub0/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dc-hub0/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Enumeration
