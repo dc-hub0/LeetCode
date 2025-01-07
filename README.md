@@ -278,6 +278,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/dc-hub0/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0948-sort-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/dc-hub0/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dc-hub0/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -355,6 +356,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/dc-hub0/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/dc-hub0/LeetCode/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/dc-hub0/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/dc-hub0/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/dc-hub0/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -749,6 +751,7 @@
 | [0190-reverse-bits](https://github.com/dc-hub0/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dc-hub0/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/dc-hub0/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0948-sort-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0948-sort-an-array) |
 ## Union Find
 |  |
@@ -973,6 +976,7 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/dc-hub0/LeetCode/tree/master/0218-the-skyline-problem) |
 | [1511-count-number-of-teams](https://github.com/dc-hub0/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Iterator
 |  |
@@ -1035,4 +1039,16 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/dc-hub0/LeetCode/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/dc-hub0/LeetCode/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/dc-hub0/LeetCode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
