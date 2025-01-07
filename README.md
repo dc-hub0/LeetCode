@@ -357,6 +357,7 @@
 | [0216-combination-sum-iii](https://github.com/dc-hub0/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/dc-hub0/LeetCode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/dc-hub0/LeetCode/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/dc-hub0/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/dc-hub0/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/dc-hub0/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -420,6 +421,7 @@
 | [0205-isomorphic-strings](https://github.com/dc-hub0/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/dc-hub0/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/dc-hub0/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/dc-hub0/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/dc-hub0/LeetCode/tree/master/0726-number-of-atoms) |
 | [0906-walking-robot-simulation](https://github.com/dc-hub0/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -833,6 +835,7 @@
 | [0076-minimum-window-substring](https://github.com/dc-hub0/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/dc-hub0/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/dc-hub0/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/dc-hub0/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Queue
 |  |
 | ------- |
