@@ -362,6 +362,7 @@
 | [1325-path-with-maximum-probability](https://github.com/dc-hub0/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dc-hub0/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/dc-hub0/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1524-string-matching-in-an-array](https://github.com/dc-hub0/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dc-hub0/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/dc-hub0/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/dc-hub0/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -584,6 +585,7 @@
 | [0539-minimum-time-difference](https://github.com/dc-hub0/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/dc-hub0/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1524-string-matching-in-an-array](https://github.com/dc-hub0/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/dc-hub0/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dc-hub0/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/dc-hub0/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -1023,6 +1025,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/dc-hub0/LeetCode/tree/master/0214-shortest-palindrome) |
+| [1524-string-matching-in-an-array](https://github.com/dc-hub0/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
