@@ -362,6 +362,7 @@
 | [0539-minimum-time-difference](https://github.com/dc-hub0/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/dc-hub0/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/dc-hub0/LeetCode/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/dc-hub0/LeetCode/tree/master/0952-word-subsets) |
 | [1196-filling-bookcase-shelves](https://github.com/dc-hub0/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dc-hub0/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/dc-hub0/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -425,6 +426,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/dc-hub0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/dc-hub0/LeetCode/tree/master/0726-number-of-atoms) |
 | [0906-walking-robot-simulation](https://github.com/dc-hub0/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [0952-word-subsets](https://github.com/dc-hub0/LeetCode/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dc-hub0/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dc-hub0/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dc-hub0/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -592,6 +594,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/dc-hub0/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/dc-hub0/LeetCode/tree/master/0726-number-of-atoms) |
+| [0952-word-subsets](https://github.com/dc-hub0/LeetCode/tree/master/0952-word-subsets) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dc-hub0/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/dc-hub0/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/dc-hub0/LeetCode/tree/master/1720-crawler-log-folder) |
