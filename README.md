@@ -435,6 +435,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dc-hub0/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dc-hub0/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dc-hub0/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/dc-hub0/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dc-hub0/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -617,6 +618,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/dc-hub0/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/dc-hub0/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/dc-hub0/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/dc-hub0/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -979,6 +981,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/dc-hub0/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dc-hub0/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dc-hub0/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/dc-hub0/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Shortest Path
 |  |
 | ------- |
